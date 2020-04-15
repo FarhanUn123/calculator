@@ -1,0 +1,32 @@
+*{
+	margin:0;
+	padding:0;
+}
+.a3{
+	width:50;
+	height:50;
+	font-size:25;
+	margin:2;
+	cursor:pointer;
+	background-color:black;
+	color:white;
+	border:none;
+}
+.a2{
+	width:217;
+	font-size:25;
+	margin:5;
+	padding:5;
+	border:none;
+}
+.a1{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translateX(-50%)translateY(-50%);
+}
+.a4{
+	background-color:red;
+	height:100%;
+}
+	
